@@ -1,0 +1,11 @@
+ТЗ.txt
+config.py
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env/
+.venv/
